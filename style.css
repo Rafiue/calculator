@@ -1,0 +1,48 @@
+.main{
+    border: 2px solid grey;
+    width: 171px;
+    height: 175px;
+}
+.result{
+    background-color: bisque;
+    color: black;
+    height: 25px;
+}
+.clear{
+    width: 160px;
+    margin-top: 4px;
+    margin-left: 4px;
+    border-radius: 3px;
+}
+.btn{
+    height: 25px;
+    width: 35px;
+    margin-left: 4px;
+    margin-top: 4px;
+    background-color:aqua;
+    border-radius: 3px;
+    
+}
+.btn:hover{
+    background-color:cadetblue;
+    height: 27px;
+    width: 38px;
+
+}
+.clear:hover{
+    background-color:cadetblue;
+    width: 164px;
+    
+}
+.last{
+    width: 75px;
+    margin-left: 6px;
+    margin-top: 4px;
+    background-color: aqua;
+    border-radius: 3px;
+}
+.last:hover{
+    background-color:cadetblue;
+    width: 78px;
+
+}
